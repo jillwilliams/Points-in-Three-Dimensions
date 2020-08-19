@@ -1,0 +1,68 @@
+body {
+    background-image: linear-gradient(darkgray, black);
+    margin: 15px 45px 15px 25px;
+    font-family: "Architects Daughter";
+    letter-spacing: 3px;
+    color: yellow;
+    font-size: 1.5rem;
+}
+h1 {
+    color: black;
+    text-decoration: underline;
+    font-size: 2rem;
+    text-shadow: 0.5px 0.5px yellow;
+    text-align: center;
+}
+h2 {
+    color: black;
+    text-decoration: underline;
+    font-size: 2rem;
+    text-shadow: 1px 1px yellow;
+    text-align: center;
+}
+#pic1 {
+    width: 30%;
+    height: auto;
+    margin: 15px 15px 15px 15px;
+}
+#pic2 {
+    width: 40%;
+    height: auto;
+    margin: 15px 15px 15px 15px;
+    border: 1px black solid;
+    outline: 2px yellow solid;
+}
+#pic3 {
+    width: 40%;
+    height: auto;
+    margin: 15px 15px 15px 15px;
+    border: 1px black solid;
+    outline: 2px yellow solid;
+}
+#pic4 {
+    width: 40%;
+    height: auto;
+    margin: 15px 15px 15px 15px;
+    border: 1px black solid;
+    outline: 2px yellow solid;
+}
+/* 3D Axis */
+#pic5 {
+    width: 40%;
+    height: auto;
+    margin: 15px 30% 15px 30%;
+    border: 1px black solid;
+    outline: 2px yellow solid;
+}
+/* Example 1 */
+#pic6, #pic7, #pic8, #pic9, #pic10, #pic11, #pic12, #pic13, #pic14, #pic15, #pic16 {
+    width: 40%;
+    height: auto;
+    margin: 15px 30% 15px 30%;
+    border: 1px black solid;
+    outline: 2px yellow solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
